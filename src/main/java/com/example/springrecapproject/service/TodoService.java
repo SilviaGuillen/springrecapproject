@@ -1,6 +1,6 @@
 package com.example.springrecapproject.service;
 
-import com.example.springrecapproject.model.Status;
+
 import com.example.springrecapproject.dto.TodoWOId;
 import com.example.springrecapproject.model.Todo;
 import com.example.springrecapproject.repo.TodoRepository;
